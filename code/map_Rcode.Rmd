@@ -1,0 +1,63 @@
+---
+title: "map_Rcode"
+author: "Yuhong"
+date: "16/08/2021"
+output: html_document
+---
+
+Load libraries
+```{r, message=FALSE, warning=FALSE}
+library(dplyr)
+library(sf)
+library(curl)
+library(ggmap)
+library(tmap)
+library(tmaptools)
+library(feather)
+```
+
+```{r}
+sampledf = read.csv("../raw_data/sample.csv",stringsAsFactors = TRUE)
+sampledf %>% 
+  group_by(PULocationID, payment_type) %>% 
+  summarise(n = n()) -> sampledf_summary
+```
+
+```{r}
+library(sf)
+```
+
+```{r}
+sf = st_read("../raw_data/taxi_zones/taxi_zones.shp")
+zone = read.csv("../raw_data/taxi+_zone_lookup.csv")
+```
+
+Basic information in shapefile.
+
+```{r message=FALSE, warning=FALSE, fig.align = "center"}
+sf = st_read("../raw_data/taxi_zones/.")
+plot(sf)
+```
+
+```{r  message=FALSE, warning=FALSE, fig.align = "center"}
+ggplot() + 
+  geom_sf(data = sf, size = 1, color = "black", fill = "cyan1") + 
+  ggtitle("Boundary Plot") + 
+  coord_sf()+
+  theme_bw()
+```
+
+```{r, message=FALSE,warning=FALSE, fig.align = "center"}
+map_big <- get_stamenmap(
+  rbind(-74.3,40.45,-73.75,40.95),
+  zoom = 10)
+ggmap(map_big)
+```
+
+```{r  message=FALSE, warning=FALSE, fig.align = "center"}
+ggmap(map_big) +
+    geom_sf(data = sf, aes(fill=Shape_Area), inherit.aes = FALSE)  +
+  coord_sf(crs = st_crs(4326)) +
+  scale_fill_viridis_c()
+```
+

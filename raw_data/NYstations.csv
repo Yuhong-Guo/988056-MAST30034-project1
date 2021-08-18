@@ -1,0 +1,842 @@
+US1NYAB0001  42.6670  -74.0509  445.0 NY ALTAMONT 2.7 SSW                            
+US1NYAB0006  42.7198  -73.9304   88.7 NY SCHENECTADY 5.6 SSW                         
+US1NYAB0010  42.5455  -74.1475  488.3 NY RENSSELAERVILLE 2.1 NNW                     
+US1NYAB0016  42.7590  -73.7370  104.2 NY LATHAM 1.1 NNE                              
+US1NYAB0017  42.6678  -73.7856   65.5 NY ALBANY 0.7 E                                
+US1NYAB0021  42.6918  -73.8311   79.2 NY NWS ALBANY                                  
+US1NYAB0022  42.7038  -73.8118   87.8 NY COLONIE 1.6 SE                              
+US1NYAB0023  42.6602  -73.8103   78.0 NY ALBANY 0.7 SW                               
+US1NYAB0025  42.6721  -73.9140   94.8 NY VOORHEESVILLE 2.0 NNE                       
+US1NYAB0028  42.7243  -73.7570  120.1 NY LATHAM 1.5 SSW                              
+US1NYAB0029  42.6193  -73.8203   64.9 NY DELMAR 0.8 ESE                              
+US1NYAB0032  42.5754  -73.7995   54.6 NY GLENMONT 2.5 SW                             
+US1NYAB0037  42.7686  -73.6911   18.0 NY COHOES 0.9 ESE                              
+US1NYAB0039  42.6624  -73.7907   66.4 NY ALBANY 0.5 ESE                              
+US1NYAB0041  42.6641  -73.7935   64.9 NY ALBANY 0.3 ESE                              
+US1NYAB0042  42.5041  -73.8981  219.8 NY COEYMANS HOLLOW 2.1 N                       
+US1NYAB0045  42.6459  -73.8406   57.3 NY ALBANY 2.5 WSW                              
+US1NYAB0046  42.4957  -73.8218   50.6 NY RAVENA 1.4 NNW                              
+US1NYAB0047  42.6101  -73.8317   63.7 NY DELMAR 1.0 S                                
+US1NYAB0053  42.5363  -73.9709  369.4 NY CLARKSVILLE 2.7 S                           
+US1NYAB0054  42.6818  -74.0833  382.8 NY ALTAMONT 2.9 SW                             
+US1NYAB0056  42.6762  -73.8436   84.1 NY ALBANY 2.4 WNW                              
+US1NYAL0002  42.2705  -77.9419  555.7 NY WEST ALMOND 3.6 SW                          
+US1NYAL0003  42.2495  -78.2998  478.5 NY CUBA 2.5 NNW                                
+US1NYAL0007  42.1215  -77.9534  452.0 NY WELLSVILLE 0.3 W                            
+US1NYAL0009  42.2093  -78.1317  457.5 NY FRIENDSHIP 0.6 ENE                          
+US1NYAL0011  42.1375  -77.9055  478.2 NY WELLSVILLE 2.4 ENE                          
+US1NYBM0001  42.1930  -75.8480  280.7 NY CHENANGO FORKS 3.0 SE                       
+US1NYBM0002  42.2333  -75.7833  231.6 NY FENTON 2.4 NE                               
+US1NYBM0004  42.0296  -76.0213  317.0 NY ENDICOTT 5.2 SSE                            
+US1NYBM0006  42.0667  -75.9500  354.8 NY BINGHAMTON 3.2 SW                           
+US1NYBM0007  42.0493  -76.0288  303.0 NY VESTAL 2.8 SSE                              
+US1NYBM0010  42.3500  -75.9000  348.1 NY WHITNEY POINT 3.7 ENE                       
+US1NYBM0011  42.0735  -75.9296  412.1 NY BINGHAMTON 1.8 SW                           
+US1NYBM0014  42.3084  -75.9569  385.9 NY WHITNEY POINT 1.7 SSE                       
+US1NYBM0019  42.3442  -75.8635  425.8 NY TRIANGLE 0.9 ENE                            
+US1NYBM0021  42.0099  -75.5142  507.8 NY WINDSOR 8.0 SE                              
+US1NYBM0023  42.1972  -75.8347  268.5 NY CHENANGO BRIDGE 2.5 NE                      
+US1NYBM0024  42.1098  -75.8858  259.4 NY BINGHAMTON 1.3 ENE                          
+US1NYBM0026  42.1127  -76.0130  293.5 NY ENDWELL 0.6 ESE                             
+US1NYBM0032  42.1415  -75.8890  272.2 NY BINGHAMTON 2.9 NNE                          
+US1NYBM0034  42.0826  -75.9912  423.7 NY VESTAL 3.2 E                                
+US1NYBM0037  42.1405  -75.9116  272.2 NY BINGHAMTON 2.7 N                            
+US1NYBM0040  42.0796  -76.0510  264.6 NY VESTAL 0.4 SSE                              
+US1NYBM0051  42.1356  -76.0438  363.6 NY ENDICOTT 2.8 NNE                            
+US1NYBM0052  42.1410  -75.8894  271.6 NY BINGHAMTON 2.9 NNE                          
+US1NYBX0025  40.8599  -73.8457   14.9 NY BRONX 1.5 NE                                
+US1NYCB0001  42.1335  -73.7679   90.8 NY HUDSON 8.2 S                                
+US1NYCB0006  42.4727  -73.6439  100.9 NY NORTH CHATHAM 0.6 W                         
+US1NYCB0008  42.1331  -73.7854   73.8 NY LIVINGSTON 0.7 SSW                          
+US1NYCB0009  42.2617  -73.5416  377.0 NY HILLSDALE 5.8 S                             
+US1NYCB0015  42.0208  -73.5925  186.2 NY ANCRAMDALE 0.2 N                            
+US1NYCB0016  42.4566  -73.6681  100.9 NY VALATIE 2.9 N                               
+US1NYCB0018  42.1044  -73.5549  168.2 NY COPAKE 0.3 WNW                              
+US1NYCL0002  44.6231  -73.5602  143.3 NY SCHUYLER FALLS 0.2 NNW                      
+US1NYCL0005  44.9848  -73.3639   30.5 NY ROUSES POINT 0.5 SSE                        
+US1NYCL0007  44.5646  -73.4539   55.2 NY PERU 4.1 ESE                                
+US1NYCL0008  44.7091  -73.5876  180.1 NY MORRISONVILLE 1.5 NW                        
+US1NYCL0012  44.6398  -73.7385  253.0 NY SARANAC 0.8 SSE                             
+US1NYCL0015  44.7172  -73.5595  133.5 NY MORRISONVILLE 1.9 NNW                       
+US1NYCM0002  42.0833  -76.8000  579.1 NY ELMIRA 0.9 SE                               
+US1NYCM0003  42.0839  -76.7881  256.0 NY ELMIRA 1.3 ESE                              
+US1NYCM0004  42.0167  -76.8500  454.2 NY SOUTHPORT 3.8 SSW                           
+US1NYCM0005  42.1500  -76.9500  304.8 NY BIG FLATS 1.1 WNW                           
+US1NYCM0006  42.0890  -76.7489  341.4 NY ELMIRA 3.2 E                                
+US1NYCM0007  42.0830  -76.8462  271.3 NY WEST ELMIRA 0.5 SSE                         
+US1NYCM0008  42.1500  -76.8167  271.9 NY HORSEHEADS 1.5 SSE                          
+US1NYCM0010  42.2000  -76.5500  182.9 NY VAN ETTEN 0.3 ENE                           
+US1NYCM0012  42.1437  -76.9512  281.9 NY HORSEHEADS                                  
+US1NYCM0013  42.0975  -76.8231  269.4 NY ELMIRA 0.7 WNW                              
+US1NYCM0014  42.1707  -76.8435  287.1 NY HORSEHEADS 0.7 W                            
+US1NYCM0017  42.0022  -76.8308  484.0 NY PINE CITY 3.1 SE                            
+US1NYCM0019  42.1734  -76.8604  301.4 NY HORSEHEADS 1.6 W                            
+US1NYCM0020  42.1325  -76.8159  265.5 NY HORSEHEADS 2.7 SSE                          
+US1NYCM0021  42.1021  -76.8304  284.1 NY ELMIRA 1.2 WNW                              
+US1NYCM0023  42.1824  -76.8349  287.7 NY HORSEHEADS 0.9 NNW                          
+US1NYCM0024  42.0913  -76.6281  325.8 NY CHEMUNG 5.7 N                               
+US1NYCN0002  42.5833  -75.4333  548.6 NY NORWICH 5.7 NE                              
+US1NYCN0003  42.3333  -75.7667  276.1 NY GREENE 0.3 NE                               
+US1NYCN0006  42.3225  -75.7507  342.0 NY GREENE 1.2 ESE                              
+US1NYCN0008  42.7260  -75.4620  384.0 NY SHERBURNE 3.6 NNE                           
+US1NYCN0009  42.5336  -75.6306  456.6 NY NORWICH 5.4 W                               
+US1NYCN0011  42.6990  -75.6121  383.1 NY SMYRNA 2.4 WNW                              
+US1NYCN0013  42.4120  -75.5037  480.4 NY GUILFORD 0.9 NW                             
+US1NYCN0014  42.4516  -75.6017  379.2 NY OXFORD 0.8 NNW                              
+US1NYCN0016  42.2872  -75.5363  348.7 NY BAINBRIDGE 2.9 WSW                          
+US1NYCN0018  42.2124  -75.4238  550.2 NY BAINBRIDGE 6.5 SSE                          
+US1NYCQ0005  42.1594  -79.0967  391.4 NY KENNEDY 0.3 NE                              
+US1NYCQ0006  42.4474  -79.2045  356.3 NY FORESTVILLE 2.1 SW                          
+US1NYCQ0007  42.0015  -79.1300  429.2 NY FREWSBURG 4.3 SSE                           
+US1NYCQ0010  42.4825  -79.3428  188.1 NY DUNKIRK 5.8 S                               
+US1NYCQ0012  42.0957  -79.2013  463.9 NY JAMESTOWN 1.8 E                             
+US1NYCQ0015  42.1621  -79.5885  477.0 NY SHERMAN 0.4 ENE                             
+US1NYCQ0017  42.4460  -79.1371  430.4 NY FORESTVILLE 2.5 SE                          
+US1NYCQ0019  42.2127  -79.7555  392.6 NY RIPLEY 4.3 SSW                              
+US1NYCQ0021  42.0160  -79.1249  441.0 NY FREWSBURG 3.4 SSE                           
+US1NYCQ0022  42.4441  -79.3461  207.3 NY FREDONIA 0.8 WNW                            
+US1NYCQ0027  42.5309  -79.1599  219.5 NY SILVER CREEK 1.0 SSE                        
+US1NYCQ0034  42.1257  -79.0723  478.5 NY KENNEDY 2.6 SE                              
+US1NYCQ0035  42.1177  -79.2028  385.9 NY FALCONER 0.3 WSW                            
+US1NYCQ0036  42.1617  -79.2819  540.4 NY JAMESTOWN 5.0 NNW                           
+US1NYCQ0039  42.2050  -79.2470  465.1 NY GERRY 0.8 N                                 
+US1NYCQ0040  42.0881  -79.2594  466.3 NY JAMESTOWN 1.4 WSW                           
+US1NYCQ0041  42.2519  -79.4981  432.2 NY MAYVILLE 0.2 ESE                            
+US1NYCR0001  42.5330  -76.0211  476.7 NY FREETOWN 1.0 NE                             
+US1NYCR0003  42.4739  -75.8725  427.3 NY WILLET 1.8 E                                
+US1NYCR0005  42.4516  -76.0437  313.9 NY MARATHON 1.0 NW                             
+US1NYCR0008  42.4407  -76.0490  376.7 NY MARATHON 0.7 WSW                            
+US1NYCR0010  42.6038  -76.1637  336.8 NY CORTLAND 0.8 ENE                            
+US1NYCR0013  42.5658  -76.2053  417.9 NY CORTLAND 2.8 SSW                            
+US1NYCT0002  42.1706  -78.9612  406.9 NY RANDOLPH 1.1 ENE                            
+US1NYCT0003  42.2847  -78.3115  486.5 NY CUBA 4.9 NNW                                
+US1NYCT0005  42.0013  -78.3595  441.0 NY PORTVILLE 2.6 SSW                           
+US1NYCT0006  42.0920  -78.4130  469.7 NY OLEAN 1.2 NE                                
+US1NYCT0007  42.2240  -78.4299  586.1 NY HINSDALE 4.4 NW                             
+US1NYCT0010  42.1659  -78.9324  431.6 NY RANDOLPH 2.4 E                              
+US1NYCT0011  42.1587  -78.4905  508.1 NY ALLEGANY 4.7 N                              
+US1NYCT0012  42.3312  -78.4615  481.6 NY FRANKLINVILLE 0.4 SW                        
+US1NYCT0014  42.4600  -79.0000  378.9 NY PERRYSBURG 0.1 ENE                          
+US1NYCT0015  42.4012  -78.6092  469.4 NY WEST VALLEY 0.1 SE                          
+US1NYCT0021  42.2647  -78.8010  518.2 NY LITTLE VALLEY 1.1 N                         
+US1NYCT0022  42.3417  -78.4528  488.6 NY FRANKLINVILLE 0.5 NNE                       
+US1NYCT0025  42.2430  -78.3964  466.0 NY ISCHUA 0.4 SSE                              
+US1NYCT0030  42.3366  -78.3879  618.7 NY FRANKLINVILLE 3.5 E                         
+US1NYCY0001  42.7390  -76.6570  259.1 NY AURORA 2.8 ESE                              
+US1NYCY0002  42.8966  -76.6727  158.5 NY CAYUGA 3.2 ESE                              
+US1NYCY0003  42.9333  -76.6500  155.4 NY CAYUGA 4.1 ENE                              
+US1NYCY0004  42.6569  -76.4336  246.9 NY LOCKE 0.3 SW                                
+US1NYCY0005  43.1420  -76.6889  122.2 NY DUCK LAKE                                   
+US1NYCY0008  42.8287  -76.4867  320.0 NY AUBURN 8.3 SSE                              
+US1NYCY0009  42.7031  -76.4202  230.1 NY MORAVIA 0.6 S                               
+US1NYCY0010  43.2237  -76.6107  121.6 NY MARTVILLE 4.0 SSE                           
+US1NYCY0013  42.7051  -76.3751  466.0 NY MORAVIA 2.5 ESE                             
+US1NYCY0014  42.9752  -76.7072  143.9 NY CAYUGA 4.0 NNE                              
+US1NYCY0021  43.0381  -76.6303  121.3 NY PORT BYRON 0.2 WNW                          
+US1NYCY0024  42.6295  -76.4120  397.2 NY LOCKE 2.4 SSE                               
+US1NYCY0026  42.7864  -76.7034  152.7 NY AURORA 2.4 N                                
+US1NYCY0027  42.7349  -76.3114  532.2 NY MORAVIA 5.9 ENE                             
+US1NYCY0030  42.8214  -76.5204  226.8 NY AUBURN 8.1 SSE                              
+US1NYCY0031  42.7400  -76.5568  303.3 NY SCIPIO CENTER 3.0 S                         
+US1NYDL0001  42.2519  -74.9874  518.2 NY DELHI 4.2 WSW                               
+US1NYDL0003  42.4189  -74.6210  609.6 NY STAMFORD 0.7 NNW                            
+US1NYDL0004  42.3667  -74.9500  562.1 NY DELHI 6.3 NNW                               
+US1NYDL0005  42.3003  -74.9026  462.1 NY DELHI 1.5 NNE                               
+US1NYDL0006  42.2608  -74.8195  534.0 NY DELHI 5.0 ESE                               
+US1NYDL0008  42.1496  -74.6189  427.0 NY MARGARETVILLE 1.7 ENE                       
+US1NYDL0009  42.1792  -74.9167  502.9 NY ANDES 6.8 W                                 
+US1NYDL0011  42.4528  -75.1033  346.9 NY WEST END 1.2 SSW                            
+US1NYDL0016  41.9511  -75.3024  277.4 NY HANCOCK 1.0 W                               
+US1NYDL0017  41.9893  -75.1318  305.4 NY EAST BRANCH 0.2 S                           
+US1NYDL0022  42.3442  -74.7317  457.2 NY SOUTH KORTRIGHT 0.8 W                       
+US1NYDL0023  41.9351  -75.0784  532.2 NY LONG EDDY 6.5 NNE                           
+US1NYDL0024  42.1653  -75.2585  380.7 NY WALTON 6.5 W                                
+US1NYDL0025  42.3523  -74.5783  676.7 NY HOBART 4.8 ESE                              
+US1NYDL0028  42.2378  -74.5234  760.8 NY FLEISCHMANNS 5.7 N                          
+US1NYDL0031  42.1964  -74.9597  465.7 NY DELANCEY 0.9 SE                             
+US1NYDL0032  42.3212  -75.0299  616.3 NY DELHI 6.6 WNW                               
+US1NYDL0034  42.4638  -74.8515  492.9 NY SCHENEVUS 5.9 SSW                           
+US1NYDT0001  41.6160  -73.8033   90.5 NY HILLSIDE LAKE 0.3 WNW                       
+US1NYDT0002  41.6634  -73.8419  112.5 NY POUGHKEEPSIE 4.7 ESE                        
+US1NYDT0004  41.5535  -73.7863   85.0 NY HOPEWELL JUNCTION 2.4 SSE                   
+US1NYDT0005  41.5880  -73.8922   70.4 NY WAPPINGERS FALLS 1.6 ESE                    
+US1NYDT0007  41.7887  -73.9356   55.5 NY HYDE PARK 1.5 W                             
+US1NYDT0008  41.7523  -73.6488  312.1 NY MILLBROOK 3.2 SE                            
+US1NYDT0009  41.9231  -73.9021   64.6 NY RHINEBECK 0.5 SE                            
+US1NYDT0010  41.6470  -73.8970   72.5 NY POUGHKEEPSIE 3.9 SSE                        
+US1NYDT0012  41.6846  -73.7205  197.5 NY LAGRANGEVILLE 3.4 NE                        
+US1NYDT0016  41.5484  -73.8803  106.4 NY FISHKILL 1.2 NE                             
+US1NYDT0017  42.0155  -73.7392  119.8 NY PINE PLAINS 4.9 WNW                         
+US1NYDT0020  41.6074  -73.7532  122.8 NY HOPEWELL JUNCTION 2.9 ENE                   
+US1NYDT0023  41.4970  -73.9559   70.7 NY BEACON 0.7 SE                               
+US1NYDT0024  42.0097  -73.8642   65.8 NY RED HOOK 1.2 NNE                            
+US1NYDT0027  41.6451  -73.8675   52.1 NY POUGHKEEPSIE 4.5 SE                         
+US1NYDT0028  41.8755  -73.8373  170.7 NY RHINEBECK 5.2 SE                            
+US1NYDT0029  41.6195  -73.9131   51.5 NY POUGHKEEPSIE 5.3 S                          
+US1NYDT0032  41.8100  -73.6590  232.6 NY MILLBROOK 2.5 NE                            
+US1NYDT0034  41.6102  -73.7586  103.6 NY HOPEWELL JUNCTION 2.8 NE                    
+US1NYDT0035  41.7237  -73.8210  116.7 NY PLEASANT VALLEY 1.7 S                       
+US1NYDT0037  41.9773  -73.9056   75.9 NY RHINEBECK 3.4 N                             
+US1NYDT0038  41.7635  -73.8725  137.5 NY HYDE PARK 1.5 E                             
+US1NYDT0039  41.6615  -73.9194   52.4 NY POUGHKEEPSIE 2.4 S                          
+US1NYDT0040  41.5800  -73.6735  329.8 NY POUGHQUAG 2.0 S                             
+US1NYER0001  42.9866  -78.8662  182.9 NY TONAWANDA 0.5 ENE                           
+US1NYER0002  42.8685  -78.8635  178.0 NY BUFFALO 1.5 S                               
+US1NYER0003  42.8627  -78.5840  246.9 NY ELMA 3.5 NE                                 
+US1NYER0004  43.0216  -78.7432  184.1 NY WILLIAMSVILLE 4.1 N                         
+US1NYER0006  42.9625  -78.8176  187.1 NY KENMORE 2.7 E                               
+US1NYER0007  42.9693  -78.6879  214.0 NY WILLIAMSVILLE 2.7 E                         
+US1NYER0008  42.9566  -78.4783  253.6 NY AKRON 4.4 SSE                               
+US1NYER0009  42.8167  -78.7136  233.8 NY WEST SENECA 2.4 SE                          
+US1NYER0010  42.6627  -78.6831  313.6 NY COLDEN 1.3 NNE                              
+US1NYER0012  42.8346  -78.7242  216.1 NY WEST SENECA 1.4 E                           
+US1NYER0013  42.8593  -78.7854  182.6 NY WEST SENECA 2.3 NW                          
+US1NYER0015  42.8740  -78.6441  215.5 NY LANCASTER 2.3 SE                            
+US1NYER0024  42.9017  -78.8791  198.1 NY BUFFALO 1.3 NW                              
+US1NYER0025  42.9750  -78.8260  182.6 NY TONAWANDA 2.6 ESE                           
+US1NYER0026  42.7142  -78.9715  190.2 NY DERBY 2.4 NNE                               
+US1NYER0029  42.5870  -78.8418  391.7 NY NORTH COLLINS 4.9 E                         
+US1NYER0035  42.8526  -78.7034  203.9 NY WEST SENECA 2.6 ENE                         
+US1NYER0039  42.7225  -78.8433  241.4 NY HAMBURG 0.4 WSW                             
+US1NYER0040  43.0153  -78.6705  185.6 NY EAST AMHERST 1.4 ESE                        
+US1NYER0044  42.8056  -78.6081  281.6 NY ELMA CENTER 1.9 SE                          
+US1NYER0045  42.7443  -78.4884  283.8 NY EAST AURORA 6.7 ESE                         
+US1NYER0046  42.9860  -78.6770  199.3 NY WILLIAMSVILLE 3.6 ENE                       
+US1NYER0050  42.7675  -78.6158  280.1 NY EAST AURORA 0.1 ENE                         
+US1NYER0051  43.0212  -78.6310  192.3 NY CLARENCE CENTER 0.9 N                       
+US1NYER0053  42.8360  -78.7897  185.9 NY WEST SENECA 1.9 W                           
+US1NYER0054  43.0225  -78.7190  178.0 NY EAST AMHERST 1.2 WNW                        
+US1NYER0057  42.9735  -78.8817  185.0 NY KENMORE 0.8 NW                              
+US1NYER0058  42.8421  -78.8041  185.9 NY BUFFALO 4.3 SE                              
+US1NYER0059  42.9632  -78.8669  186.5 NY KENMORE 0.3 ESE                             
+US1NYER0060  42.7766  -78.8444  192.0 NY BLASDELL 1.5 SSW                            
+US1NYER0063  42.6020  -78.6391  430.1 NY GLENWOOD 1.5 SE                             
+US1NYER0065  42.6547  -78.7201  475.8 NY BOSTON 1.5 NE                               
+US1NYER0066  42.7645  -78.5980  310.0 NY EAST AURORA 1.0 ESE                         
+US1NYER0067  42.8380  -78.7339  202.1 NY WEST SENECA 0.9 E                           
+US1NYER0068  42.9314  -78.6785  222.5 NY LANCASTER 2.1 NNW                           
+US1NYER0072  43.0137  -78.8296  173.7 NY TONAWANDA 3.1 NE                            
+US1NYER0075  42.8194  -78.6214  265.8 NY ELMA CENTER 0.7 SE                          
+US1NYER0077  42.6509  -78.6106  502.9 NY COLDEN 2.4 ENE                              
+US1NYER0078  42.7149  -78.8339  248.7 NY HAMBURG 0.6 S                               
+US1NYER0079  42.9108  -78.7049  206.7 NY DEPEW 0.1 S                                 
+US1NYER0080  42.9265  -78.5952  233.2 NY LANCASTER 4.1 ENE                           
+US1NYER0081  42.9705  -78.8284  182.3 NY TONAWANDA 2.6 ESE                           
+US1NYER0083  42.9698  -78.7663   96.9 NY WILLIAMSVILLE 1 NW                          
+US1NYER0085  42.9852  -78.4863  251.2 NY AKRON 2.4 S                                 
+US1NYER0086  43.0051  -78.8660  176.5 NY TONAWANDA 1.5 NNE                           
+US1NYER0093  42.8890  -78.8901  178.0 NY BUFFALO 1.5 W                               
+US1NYER0094  42.7700  -78.7443  257.3 NY ORCHARD PARK 0.5 N                          
+US1NYER0095  42.9508  -78.8719  183.5 NY BUFFALO 4.3 N                               
+US1NYER0096  42.8100  -78.6813  254.5 NY ELMA 2.7 WSW                                
+US1NYER0098  43.0521  -78.7643  176.8 NY AMHERST 5.4 NNE                             
+US1NYER0100  42.7138  -78.9589  199.0 NY LAKE VIEW 1.2 W                             
+US1NYER0102  42.9412  -78.7193  214.3 NY CHEEKTOWAGA 2.7 NE                          
+US1NYER0103  42.8347  -78.8227  207.0 NY BUFFALO 4.2 SSE                             
+US1NYER0104  42.9942  -78.7526  179.5 NY WILLIAMSVILLE 2.2 NNW                       
+US1NYER0107  42.9855  -78.7269  186.2 NY AMHERST 3.3 ENE                             
+US1NYER0109  42.9864  -78.8706  188.7 NY BUFFALO 6.7 N                               
+US1NYER0110  42.9858  -78.8905  183.8 NY TONAWANDA 0.8 W                             
+US1NYER0113  42.8370  -78.7433  198.4 NY WEST SENECA 0.4 E                           
+US1NYER0116  42.8718  -78.5546  249.9 NY ALDEN 3.6 WSW                               
+US1NYER0120  42.7043  -78.9621  198.4 NY DERBY 1.7 NNE                               
+US1NYER0122  42.9346  -78.7830  204.5 NY CHEEKTOWAGA 2.4 NW                          
+US1NYER0123  43.0455  -78.7215  177.1 NY CLARENCE CENTER 5.2 WNW                     
+US1NYER0124  42.9235  -78.7679  199.0 NY CHEEKTOWAGA 1.3 NW                          
+US1NYER0125  42.7228  -78.8288  249.3 NY HAMBURG 0.3 ESE                             
+US1NYER0132  42.8744  -78.6603  213.4 NY LANCASTER 1.9 SSE                           
+US1NYER0135  42.8540  -78.7716  187.5 NY WEST SENECA 1.5 NW                          
+US1NYER0138  42.8140  -78.5967  269.4 NY EAST AURORA 3.4 NNE                         
+US1NYER0145  42.8256  -78.6011  267.9 NY ELMA CENTER 1.6 E                           
+US1NYER0147  42.9974  -78.7403  180.7 NY WILLIAMSVILLE 2.4 N                         
+US1NYER0150  42.6348  -78.8862  318.8 NY EDEN 1.4 SSE                                
+US1NYER0151  43.0074  -78.6292  197.5 NY CLARENCE CENTER 0.2 ESE                     
+US1NYER0158  42.7294  -78.6056  330.7 NY EAST AURORA 2.7 SSE                         
+US1NYER0159  42.9334  -78.6336  222.2 NY LANCASTER 2.9 NE                            
+US1NYER0164  43.0286  -78.4836  217.0 NY AKRON 0.9 NE                                
+US1NYER0166  42.6548  -78.7030  490.7 NY BOSTON 2.5 NE                               
+US1NYER0177  42.9608  -78.6657  217.0 NY CLARENCE 3.8 SSW                            
+US1NYER0178  42.8137  -78.7140  236.8 NY WEST SENECA 2.5 SE                          
+US1NYER0185  42.9573  -78.8323  187.5 NY KENMORE 2.1 ESE                             
+US1NYER0186  42.7228  -78.7345  350.2 NY ORCHARD PARK 2.9 SSE                        
+US1NYER0189  42.7534  -78.8345  222.5 NY HAMBURG 2.0 N                               
+US1NYES0001  44.3049  -73.9864  578.8 NY LAKE PLACID 1.5 N                           
+US1NYES0004  44.2435  -73.8100  355.7 NY KEENE 1.3 SW                                
+US1NYES0005  43.8086  -73.8189  416.7 NY SCHROON LAKE 3.5 SW                         
+US1NYES0006  43.8335  -73.8978  459.3 NY OLMSTEDVILLE 4.6 NNE                        
+US1NYES0007  44.4950  -73.4711  160.9 NY KEESEVILLE 0.8 SE                           
+US1NYES0008  44.4256  -73.9314  524.3 NY BLOOMINGDALE 7.8 E                          
+US1NYES0009  44.2154  -73.7510  599.2 NY KEENE VALLEY 2.5 NE                         
+US1NYES0011  44.4120  -74.0676  518.2 NY VERMONTVILLE 2.8 S                          
+US1NYFK0002  44.4952  -74.1184  517.6 NY ONCHIOTA 0.3 ENE                            
+US1NYFK0007  44.4136  -74.1521  521.2 NY SARANAC LAKE 6.2 N                          
+US1NYFK0009  44.4193  -74.1619  514.5 NY GABRIELS 1.3 SE                             
+US1NYFL0007  43.0394  -74.1085  285.3 NY BROADALBIN 4.7 ESE                          
+US1NYFL0008  43.0500  -74.3288  270.7 NY GLOVERSVILLE 0.9 E                          
+US1NYFL0009  43.2303  -74.1722  266.7 NY NORTHVILLE 0.6 N                            
+US1NYGN0001  43.1097  -78.3837  191.1 NY OAKFIELD 6.5 WNW                            
+US1NYGN0006  42.9989  -78.0483  274.0 NY STAFFORD 1.8 NE                             
+US1NYGN0009  42.9338  -78.1935  280.4 NY BATAVIA 4.5 S                               
+US1NYGN0011  42.9985  -78.2057  275.5 NY BATAVIA 1.2 W                               
+US1NYGN0013  42.9887  -78.2473  271.9 NY BATAVIA 3.4 WSW                             
+US1NYGN0015  42.9302  -78.3570  299.0 NY CORFU 3.0 SE                                
+US1NYGN0018  42.8980  -78.4315  306.3 NY DARIEN CENTER 2.2 W                         
+US1NYGR0005  42.4429  -73.7866   12.2 NY NEW BALTIMORE 0.2 SE                        
+US1NYGR0006  42.3605  -73.9835  229.8 NY FREEHOLD 3.4 E                              
+US1NYGR0007  42.4140  -74.0090  248.7 NY GREENVILLE 0.7 E                            
+US1NYGR0009  42.2959  -73.8327   61.9 NY ATHENS 2.2 NNW                              
+US1NYGR0013  42.1388  -74.0870  641.9 NY TANNERSVILLE 4.5 SSE                        
+US1NYGR0014  42.2602  -74.3587  583.1 NY LEXINGTON 1.5 N                             
+US1NYHM0001  43.4513  -74.4712  524.9 NY SPECULATOR 10.0 SSW                         
+US1NYHM0002  43.7491  -74.7493  545.3 NY INLET 2.2 ESE                               
+US1NYHM0005  43.8731  -74.6326  551.4 NY LONG LAKE 12.6 SW                           
+US1NYHM0006  43.9715  -74.4200  506.6 NY LONG LAKE 0.1 SSE                           
+US1NYHM0008  43.9907  -74.4188  546.5 NY LONG LAKE 1.2 N                             
+US1NYHM0009  43.3870  -74.6772  594.1 NY HOFFMEISTER 2.0 E                           
+US1NYHM0010  43.4549  -74.4529  538.6 NY LAKE PLEASANT 2.3 WSW                       
+US1NYHR0001  43.6945  -74.9864  556.0 NY BISBY GATEHOUSE AT ALC                      
+US1NYHR0004  43.0166  -75.0553  150.6 NY ILION 0.8 WNW                               
+US1NYHR0006  43.1051  -74.9732  219.2 NY LITTLE FALLS 7.5 NW                         
+US1NYHR0009  43.7052  -74.9590  538.9 NY OLD FORGE 0.8 SE                            
+US1NYHR0010  43.0925  -74.7809  274.6 NY DOLGEVILLE 0.7 SW                           
+US1NYHR0012  43.1232  -74.7974  312.7 NY DOLGEVILLE 1.9 NW                           
+US1NYHR0016  43.0088  -75.0539  160.9 NY ILION 0.7 WSW                               
+US1NYHR0017  42.9266  -74.8702  485.9 NY JORDANVILLE 4.2 E                           
+US1NYHR0018  43.1626  -74.8088  423.4 NY SALISBURY CENTER 1.8 NW                     
+US1NYHR0019  43.0456  -74.8505  150.9 NY LITTLE FALLS 0.3 E                          
+US1NYJF0003  44.0092  -75.5652  235.9 NY CARTHAGE 2.5 NE                             
+US1NYJF0004  44.3402  -75.8478  107.9 NY ALEXANDRIA BAY 3.5 E                        
+US1NYJF0005  44.2294  -76.0956   80.8 NY CLAYTON 0.6 SW                              
+US1NYJF0007  44.1750  -75.7914  135.3 NY THERESA 2.8 S                               
+US1NYJF0008  44.0194  -75.7655  189.0 NY FELTS MILLS 0.1 NNW                         
+US1NYJF0010  43.9819  -75.9340  122.2 NY WATERTOWN 1.3 WNW                           
+US1NYJF0011  43.9616  -75.6271  238.7 NY CARTHAGE 2.0 SW                             
+US1NYJF0013  44.0094  -75.7770  192.3 NY BLACK RIVER 1.0 E                           
+US1NYJF0019  43.9723  -75.6204  239.9 NY CARTHAGE 1.2 SW                             
+US1NYJF0020  43.9708  -75.9090  151.8 NY WATERTOWN 0.2 SSE                           
+US1NYJF0026  43.7122  -76.0621  189.6 NY MANNSVILLE 0.3 SE                           
+US1NYJF0032  43.9669  -75.8920  159.1 NY WATERTOWN 1.0 ESE                           
+US1NYJF0039  43.9941  -76.0222   97.2 NY DEXTER 1.5 SE                               
+US1NYKN0003  40.6194  -73.9859    7.9 NY BROOKLYN 2.4 SW                             
+US1NYKN0025  40.6846  -73.9867    5.5 NY BROOKLYN 3.1 NW                             
+US1NYLV0001  42.5321  -77.7554  462.1 NY DANSVILLE 3.6 WSW                           
+US1NYLV0002  42.9186  -77.7437  190.5 NY AVON 0.5 NNE                                
+US1NYLV0005  42.5680  -77.6790  458.7 NY DANSVILLE 1.0 ENE                           
+US1NYLW0001  43.5777  -75.3512  296.0 NY PORT LEYDEN 0.7 SW                          
+US1NYLW0002  44.0936  -75.3653  285.9 NY HARRISVILLE 4.7 SSW                         
+US1NYLW0003  43.5754  -75.4464  501.7 NY CONSTABLEVILLE 1.2 NW                       
+US1NYLW0005  43.8862  -75.4284  241.7 NY BEAVER FALLS 0.1 SW                         
+US1NYLW0009  43.6996  -75.4104  297.8 NY GLENFIELD 0.9 SSW                           
+US1NYLW0010  43.9831  -75.3675  317.0 NY CROGHAN 6.2 N                               
+US1NYLW0012  43.7592  -75.2998  390.4 NY CHASES LAKE COOP                            
+US1NYMD0001  42.9167  -75.9000  420.6 NY CAZENOVIA 2.6 WSW                           
+US1NYMD0002  43.0861  -75.6607  133.2 NY ONEIDA 0.7 NNE                              
+US1NYMD0005  43.0717  -75.7560  166.4 NY CANASTOTA 0.9 S                             
+US1NYMD0008  43.1383  -75.8703  120.1 NY LAKEPORT                                    
+US1NYMD0009  42.7398  -75.5520  329.2 NY EARLVILLE 0.4 W                             
+US1NYMD0010  42.9000  -75.8114  445.9 NY CAZENOVIA 2.9 SE                            
+US1NYMD0011  42.7614  -75.5554  332.5 NY EARLVILLE 1.6 NNW                           
+US1NYMD0014  42.9534  -75.6117  307.5 NY MUNNSVILLE 2.0 SW                           
+US1NYMD0016  43.0330  -75.8348  208.2 NY CHITTENANGO 2.1 ESE                         
+US1NYMD0017  42.9414  -75.6446  397.8 NY MORRISVILLE 3.0 N                           
+US1NYMD0018  43.0823  -75.7476  127.7 NY CANASTOTA 0.4 ESE                           
+US1NYMD0020  43.0214  -75.5755  285.6 NY MUNNSVILLE 3.3 N                            
+US1NYMD0022  43.0801  -75.6686  172.2 NY ONEIDA 0.4 NW                               
+US1NYMD0023  43.0421  -75.7449  210.6 NY CANASTOTA 3.0 S                             
+US1NYMG0001  42.9300  -74.6264   94.2 NY FORT PLAIN 0.2 SE                           
+US1NYMG0002  42.9643  -74.4756  291.4 NY FONDA 5.2 W                                 
+US1NYMG0003  42.8643  -74.7214  320.0 NY HESSVILLE 1.8 WSW                           
+US1NYMG0005  42.9547  -74.2009  163.1 NY AMSTERDAM 1.0 NNW                           
+US1NYMR0001  43.1223  -77.4314  157.0 NY FAIRPORT 1.6 NNE                            
+US1NYMR0002  43.0414  -77.4516  228.9 NY FAIRPORT 4.1 S                              
+US1NYMR0004  43.1089  -77.4823  128.9 NY EAST ROCHESTER 0.3 SE                       
+US1NYMR0005  43.1305  -77.5202  106.1 NY EAST ROCHESTER 2.1 NW                       
+US1NYMR0007  43.3020  -77.9432  100.3 NY HAMLIN 1.1 WSW                              
+US1NYMR0008  43.3652  -77.9883   79.9 NY HAMLIN 5.5 NW                               
+US1NYMR0012  43.1223  -77.8164  185.3 NY NORTH CHILI 0.6 NW                          
+US1NYMR0015  43.2161  -77.9525  117.7 NY BROCKPORT 0.6 WNW                           
+US1NYMR0016  43.1535  -77.4891  138.1 NY ROCHESTER 6.6 E                             
+US1NYMR0018  43.1309  -77.5107   97.5 NY ROCHESTER 5.7 ESE                           
+US1NYMR0020  43.1479  -77.5045   82.9 NY ROCHESTER 5.8 ESE                           
+US1NYMR0021  43.0350  -77.4945  169.8 NY PITTSFORD 4.0 SSE                           
+US1NYMR0023  43.2036  -77.7031  131.1 NY ROCHESTER 5.0 WNW                           
+US1NYMR0024  43.2479  -77.4966   94.2 NY WEBSTER 4.4 WNW                             
+US1NYMR0026  43.2099  -77.4851  125.0 NY WEBSTER 3.2 W                               
+US1NYMR0029  43.2199  -77.9124  147.2 NY BROCKPORT 1.5 ENE                           
+US1NYMR0032  43.1501  -77.8040  186.8 NY SPENCERPORT 2.6 S                           
+US1NYMR0036  43.2142  -77.6432  122.5 NY ROCHESTER 3.4 NNW                           
+US1NYMR0042  43.1946  -77.7966  153.3 NY SPENCERPORT 0.8 NE                          
+US1NYMR0044  43.1677  -77.5449  125.0 NY ROCHESTER 3.6 E                             
+US1NYMR0047  43.1769  -77.7137  164.3 NY ROCHESTER 5.0 W                             
+US1NYMR0048  43.2015  -77.6196  124.4 NY ROCHESTER 2.3 N                             
+US1NYMR0050  43.2127  -77.4810  119.8 NY WEBSTER 3.0 W                               
+US1NYMR0055  42.9701  -77.5657  199.0 NY HONEOYE FALLS 1.7 NE                        
+US1NYMR0056  43.3424  -77.9465   87.5 NY HAMLIN 3.0 NNW                              
+US1NYMR0057  43.1521  -77.8785  191.1 NY CHURCHVILLE 3.5 N                           
+US1NYMR0061  43.1134  -77.4890  131.1 NY EAST ROCHESTER 0.1 NNW                      
+US1NYMR0065  43.0254  -77.7596  180.4 NY SCOTTSVILLE 0.4 NW                          
+US1NYMR0067  43.2814  -77.7046   82.0 NY ROCHESTER 9.0 NNW                           
+US1NYMR0073  43.0565  -77.5147  171.6 NY PITTSFORD 2.3 S                             
+US1NYNG0002  43.0573  -78.8617  176.2 NY NORTH TONAWANDA 1.0 NNE                     
+US1NYNG0003  43.0558  -78.8699  175.9 NY NORTH TONAWANDA 0.9 NNW                     
+US1NYNG0006  43.1383  -78.8863  198.4 NY SANBORN 0.2 NE                              
+US1NYNG0008  43.1773  -78.6774  186.2 NY LOCKPORT 1.1 ENE                            
+US1NYNG0010  43.1829  -78.6441  195.1 NY LOCKPORT 2.8 ENE                            
+US1NYNG0011  43.0961  -79.0281  178.9 NY NIAGARA FALLS 0.7 WNW                       
+US1NYNG0012  43.1764  -78.6834  158.8 NY LOCKPORT 0.8 NE                             
+US1NYNG0013  43.2671  -79.0068   86.0 NY YOUNGSTOWN 2.2 NE                           
+US1NYNG0017  43.1010  -78.7083  178.6 NY PENDLETON 1.4 NE                            
+US1NYNG0018  43.0584  -78.8395  175.3 NY NORTH TONAWANDA 1.7 NE                      
+US1NYNG0022  43.0830  -78.9046  176.2 NY NIAGARA FALLS 5.7 E                         
+US1NYNG0027  43.1898  -78.7442  139.6 NY LOCKPORT 2.8 WNW                            
+US1NYNG0029  43.0299  -78.8572  177.1 NY NORTH TONAWANDA 1.1 SSE                     
+US1NYNG0030  43.1521  -78.6534  195.7 NY LOCKPORT 2.5 ESE                            
+US1NYNG0032  43.0918  -78.6568  178.9 NY RAPIDS 1.0 SW                               
+US1NYNG0034  43.1548  -78.6890  198.1 NY LOCKPORT 1.1 SSE                            
+US1NYNG0037  43.1482  -78.6858   57.6 NY LOCKPORT 1.6 SSE                            
+US1NYNG0042  43.1410  -78.8618  187.5 NY SANBORN 1.2 ENE                             
+US1NYNS0001  40.7623  -73.4920   43.9 NY BETHPAGE 0.9 NNW                            
+US1NYNS0006  40.7245  -73.5086   27.1 NY LEVITTOWN 0.2 E                             
+US1NYNS0007  40.7230  -73.7110   24.1 NY FLORAL PARK 0.4 W                           
+US1NYNS0009  40.8704  -73.5717   34.1 NY MILL NECK 1.1 SW                            
+US1NYNS0014  40.6623  -73.6780    7.0 NY LYNBROOK 0.3 NW                             
+US1NYNS0016  40.6552  -73.4756    2.4 NY MASSAPEQUA 0.9 SSW                          
+US1NYNS0018  40.7687  -73.5017   45.7 NY HICKSVILLE 1.3 ENE                          
+US1NYNS0022  40.7198  -73.6909   26.2 NY FLORAL PARK 0.7 ESE                         
+US1NYNS0024  40.6972  -73.5160   14.9 NY NORTH WANTAGH 0.4 WSW                       
+US1NYNS0027  40.8392  -73.6803   52.1 NY PORT WASHINGTON 0.8 N                       
+US1NYNS0028  40.6679  -73.5549    6.7 NY MERRICK 1.2 N                               
+US1NYNS0030  40.7214  -73.4842   22.9 NY PLAINEDGE 0.4 WSW                           
+US1NYNS0032  40.8813  -73.5813   31.1 NY LOCUST VALLEY 0.3 E                         
+US1NYNS0034  40.6668  -73.5054    4.3 NY WANTAGH 0.3 ESE                             
+US1NYNS0035  40.6571  -73.6978    3.7 NY VALLEY STREAM 0.6 SE                        
+US1NYNS0036  40.7870  -73.5133   54.9 NY SYOSSET 2.0 SSW                             
+US1NYNS0037  40.6833  -73.5038   10.4 NY WANTAGH 1.1 NNE                             
+US1NYNS0040  40.6435  -73.6095    4.6 NY BALDWIN 1.3 S                               
+US1NYNS0041  40.6622  -73.6639    7.3 NY LYNBROOK 0.6 ENE                            
+US1NYNS0042  40.7691  -73.6475   43.3 NY ALBERTSON 0.2 SSE                           
+US1NYNS0043  40.7859  -73.4669   56.7 NY PLAINVIEW 0.4 ENE                           
+US1NYNS0045  40.7475  -73.6645   34.4 NY NEW HYDE PARK 1.6 NE                        
+US1NYNS0046  40.6981  -73.4499   10.7 NY MASSAPEQUA PARK 1.2 N                       
+US1NYNS0060  40.7115  -73.6751   22.3 NY FRANKLIN SQUARE 0.8 N                       
+US1NYNY0074  40.7969  -73.9330    6.1 NY NEW YORK 8.8 N                              
+US1NYNY0078  40.7339  -73.9844    6.1 NY STUYVESANT SQUARE PARK - NEW Y              
+US1NYOD0001  43.4783  -75.1696  440.4 NY BOONVILLE 8.0 E                             
+US1NYOD0002  43.3733  -75.5384  335.3 NY POINT ROCK 0.6 SE                           
+US1NYOD0003  43.3167  -75.4458  311.5 NY STOKES CORNER 1.4 NE                        
+US1NYOD0004  43.4833  -75.3333  345.9 NY BOONVILLE 0.2 NW                            
+US1NYOD0005  43.3246  -75.3787  411.5 NY WESTERNVILLE 2NW                            
+US1NYOD0006  43.3333  -75.7667  196.9 NY CAMDEN 1.0 WSW                              
+US1NYOD0007  43.2363  -75.2858  179.8 NY HOLLAND PATENT 1.5 WSW                      
+US1NYOD0008  43.1580  -75.4621  168.9 NY ROME 4.9 SSE                                
+US1NYOD0009  43.2167  -75.2833  166.1 NY HOLLAND PATENT 2.2 SW                       
+US1NYOD0011  43.0859  -75.5423  187.1 NY VERNON 0.4 NNW                              
+US1NYOD0014  43.1658  -75.2451  276.1 NY WHITESBORO 3.9 NE                           
+US1NYOD0016  43.2552  -75.1641  225.6 NY BARNEVELD 1.8 SE                            
+US1NYOD0017  43.0614  -75.2914  216.7 NY NEW HARTFORD 0.7 S                          
+US1NYOD0019  43.0618  -75.2899  211.8 NY NEW HARTFORD 0.8 S                          
+US1NYOD0023  43.1712  -75.6828  120.1 NY DURHAMVILLE 3.5 NNW                         
+US1NYOD0026  43.3018  -75.4393  189.3 NY AVA 8.0 S                                   
+US1NYOD0040  43.4527  -75.7342  339.2 NY CAMDEN 8.1 N                                
+US1NYOD0042  43.1002  -75.3294  167.0 NY WHITESBORO 2.3 SW                           
+US1NYOD0043  43.2471  -75.2775  237.4 NY HOLLAND PATENT 1.1 WNW                      
+US1NYOD0045  43.2406  -75.4503  149.7 NY ROME 2.2 ENE                                
+US1NYOD0047  43.3515  -75.4534  384.4 NY AVA 4.8 SSE                                 
+US1NYOD0051  43.4767  -75.3842  387.1 NY BOONVILLE 2.7 W                             
+US1NYOD0052  43.1952  -75.5509  143.6 NY ROME 3.7 SW                                 
+US1NYOD0060  42.9955  -75.2885  432.8 NY SAUQUOIT 1.6 WSW                            
+US1NYOD0061  43.2241  -75.7471  116.4 NY SYLVAN BEACH 1.6 NW                         
+US1NYOD0063  43.1121  -75.1802  129.8 NY UTICA 2.6 ENE                               
+US1NYOG0002  43.0333  -76.1000  192.0 NY DE WITT 1.4 WSW                             
+US1NYOG0003  43.0000  -75.9667  212.1 NY MANLIUS 0.8 E                               
+US1NYOG0004  42.7900  -76.1400  369.4 NY TULLY 1.7 WSW                               
+US1NYOG0005  43.0333  -76.2333  206.0 NY FAIRMOUNT 0.9 SE                            
+US1NYOG0006  43.1167  -76.2667  129.5 NY VILLAGE GREEN 2.6 ESE                       
+US1NYOG0008  43.1000  -76.1667  129.8 NY MATTYDALE 1.0 W                             
+US1NYOG0010  43.0396  -76.3283  247.5 NY CAMILLUS 1.0 W                              
+US1NYOG0011  42.8000  -76.1100  396.2 NY TULLY 0.2 NW                                
+US1NYOG0012  43.2000  -76.2600  115.8 NY CLAY 4.6 NW                                 
+US1NYOG0013  43.1873  -76.0946  118.9 NY CICERO 1.6 NE                               
+US1NYOG0014  43.1300  -76.3000  128.6 NY VILLAGE GREEN 0.7 ESE                       
+US1NYOG0015  43.1369  -76.2083  135.0 NY LIVERPOOL 2.1 N                             
+US1NYOG0016  42.7971  -76.1054  381.6 NY TULLY 0.1 ESE                               
+US1NYOG0020  43.0284  -76.1212  178.3 NY SYRACUSE 1.4 SE                             
+US1NYOG0025  43.0322  -76.0675  140.8 NY DEWITT 0.5 SE                               
+US1NYOG0026  43.2322  -76.1188  116.4 NY BREWERTON 1.2 E                             
+US1NYOG0028  43.2283  -76.1133  118.9 NY BREWERTON 1.5 ESE                           
+US1NYOG0030  43.0225  -76.1025  188.4 NY SYRACUSE 2.4 ESE                            
+US1NYOG0031  42.9826  -76.3091  325.5 NY MARCELLUS 1.6 E                             
+US1NYOG0037  43.0128  -76.3159  256.9 NY MARCELLUS 2.3 NNE                           
+US1NYOG0038  43.0338  -76.0300  149.4 NY FAYETTEVILLE 1.6 W                          
+US1NYOG0040  42.9253  -76.0328  395.9 NY POMPEY 2.0 NNW                              
+US1NYOG0043  42.7993  -76.0938  389.5 NY TULLY 0.7 E                                 
+US1NYOG0045  43.1682  -76.2283  118.6 NY LIVERPOOL 4.4 NNW                           
+US1NYOG0046  43.1951  -76.2883  118.9 NY BALDWINSVILLE 3.5 NE                        
+US1NYOG0048  43.0586  -76.2098  154.5 NY SOLVAY 0.1 ENE                              
+US1NYOG0050  43.1417  -76.2272  119.2 NY LIVERPOOL 2.6 NNW                           
+US1NYOG0051  43.1356  -76.1379  124.4 NY NORTH SYRACUSE 0.4 WNW                      
+US1NYOG0052  43.0015  -76.1395  131.1 NY SYRACUSE 2.7 S                              
+US1NYOG0056  42.8326  -75.9822  389.2 NY FABIUS 0.3 SE                               
+US1NYOG0057  42.8126  -76.0448  407.5 NY TULLY 3.4 ENE                               
+US1NYOG0061  42.9554  -76.4336  285.6 NY SKANEATELES 0.8 NNW                         
+US1NYOG0062  43.0893  -76.3410  136.9 NY WARNERS 0.7 WNW                             
+US1NYOG0066  43.1674  -76.1456  121.0 NY CLAY 2.0 SE                                 
+US1NYOG0067  43.0094  -76.2249  262.1 NY WESTVALE 2.3 SSW                            
+US1NYOG0070  42.8408  -76.3164  405.4 NY SKANEATELES 9.1 SE                          
+US1NYOG0071  43.1888  -76.2519  132.9 NY LIVERPOOL 6.1 NNW                           
+US1NYOG0072  43.1702  -76.2239  120.7 NY LIVERPOOL 4.5 N                             
+US1NYOL0001  43.2273  -78.3882  151.8 NY MEDINA 0.5 N                                
+US1NYOL0002  43.3562  -78.2551   85.6 NY WATERPORT 2.7 N                             
+US1NYOL0003  43.3130  -78.1361  112.5 NY KENT 1.0 S                                  
+US1NYOL0004  43.2637  -78.2186  142.6 NY ALBION 1.9 NW                               
+US1NYOL0005  43.2230  -78.3954  164.6 NY MEDINA 0.4 WNW                              
+US1NYON0004  43.0066  -77.1185  166.1 NY PHELPS 4.4 NW                               
+US1NYON0007  42.8533  -77.2981  286.5 NY CANANDAIGUA 2.6 SSW                         
+US1NYON0011  42.7877  -77.1315  286.5 NY GORHAM 0.8 S                                
+US1NYON0017  42.8220  -77.2884  256.6 NY CANANDAIGUA 4.6 S                           
+US1NYON0018  42.8410  -77.2258  281.0 NY CANANDAIGUA 4.3 SE                          
+US1NYON0019  42.6279  -77.4286  422.5 NY NAPLES 1.6 WNW                              
+US1NYOR0002  41.4469  -74.0214   50.9 NY CORNWALL ON HUDSON 0.6 NNW                  
+US1NYOR0003  41.4730  -74.5513  320.3 NY OTISVILLE 0.6 WNW                           
+US1NYOR0004  41.2684  -74.4160  189.3 NY WARWICK 3.2 WNW                             
+US1NYOR0006  41.3014  -74.1670  253.0 NY MONROE 1.7 SE                               
+US1NYOR0015  41.3740  -74.6845  142.3 NY PORT JERVIS 0.4 SE                          
+US1NYOR0017  41.5880  -74.3577  126.8 NY PINE BUSH 3.4 WSW                           
+US1NYOR0018  41.5410  -74.1879  125.9 NY WALDEN 1.3 S                                
+US1NYOR0019  41.1890  -74.3265  195.1 NY GREENWOOD LAKE 3.0 SW                       
+US1NYOR0020  41.6090  -74.1269  155.8 NY WALLKILL 2.0 E                              
+US1NYOR0021  41.3599  -74.6409  416.1 NY PORT JERVIS 2.9 ESE                         
+US1NYOS0001  43.5964  -76.0373  191.4 NY LACONA 3.6 SSE                              
+US1NYOS0003  43.4437  -76.4052  139.0 NY OSWEGO 5.0 ESE                              
+US1NYOS0006  43.4650  -76.5194   75.9 NY OSWEGO 0.9 WNW                              
+US1NYOS0008  43.3323  -76.2666  140.2 NY PHOENIX 7.1 NNE                             
+US1NYOS0013  43.6392  -75.8825  395.9 NY REDFIELD 7.9 NNW                            
+US1NYOS0015  43.3977  -76.4796  107.0 NY MINETTO 0.1 SE                              
+US1NYOS0020  43.3165  -76.4185  121.0 NY FULTON 0.2 W                                
+US1NYOS0021  43.5700  -76.1195   87.5 NY PULASKI 0.5 NE                              
+US1NYOS0024  43.4228  -76.5086  116.4 NY OSWEGO 2.5 S                                
+US1NYOS0025  43.3242  -76.4178  104.9 NY FULTON 0.5 NNW                              
+US1NYOS0026  43.4194  -76.2738  133.8 NY MEXICO 3.6 SSW                              
+US1NYOS0038  43.4383  -76.2657  129.5 NY MEXICO COOP                                 
+US1NYOT0001  42.4309  -75.3047  548.6 NY UNADILLA 7.2 N                              
+US1NYOT0002  42.6952  -74.9300  374.9 NY COOPERSTOWN 0.3 S                           
+US1NYOT0003  42.6644  -74.9587  359.1 NY COOPERSTOWN 2.8 SSW                         
+US1NYOT0004  42.8167  -75.2333  323.1 NY BRIDGEWATER 4.3 SSE                         
+US1NYOT0005  42.5555  -75.1265  533.4 NY LAURENS 2.5 NW                              
+US1NYOT0008  42.3235  -75.3643  315.2 NY SIDNEY 2.1 NE                               
+US1NYOT0009  42.8525  -74.9775  411.5 NY RICHFIELD SPRINGS 0.5 ESE                   
+US1NYOT0011  42.6599  -75.0500  406.9 NY HARTWICK                                    
+US1NYOT0013  42.6332  -75.3195  345.3 NY NEW BERLIN 1.0 NE                           
+US1NYOT0014  42.5440  -74.7657  512.1 NY WORCESTER 4.0 SSW                           
+US1NYOT0015  42.5721  -74.9797  366.7 NY ONEONTA 7.0 NE                              
+US1NYOT0018  42.7172  -74.7583  404.8 NY CHERRY VALLEY 5.6 S                         
+US1NYOT0022  42.6285  -75.0249  455.1 NY MILFORD 4.8 NW                              
+US1NYOT0024  42.6222  -74.6733  443.2 NY EAST WORCESTER 0.1 SW                       
+US1NYOT0025  42.5217  -75.1960  519.4 NY LAURENS 5.5 W                               
+US1NYOT0026  42.7964  -74.9658  474.6 NY RICHFIELD SPRINGS 4.1 SSE                   
+US1NYOT0029  42.6369  -75.3109  364.5 NY NEW BERLIN 1.5 NE                           
+US1NYOT0030  42.5617  -75.0727  425.8 NY MOUNT VISION 1.4 SW                         
+US1NYOT0031  42.5331  -74.9209  496.8 NY MARYLAND 1.8 W                              
+US1NYPT0001  41.4969  -73.7017  249.0 NY CARMEL HAMLET 5.8 N                         
+US1NYPT0002  41.4807  -73.8911  260.3 NY BEACON 4.2 ESE                              
+US1NYPT0004  41.4970  -73.8369  137.5 NY COLD SPRING 8.1 NE                          
+US1NYPT0008  41.3529  -73.7841  191.1 NY MAHOPAC 2.5 WSW                             
+US1NYPT0011  41.4039  -73.6164  154.2 NY BREWSTER 0.5 N                              
+US1NYQN0002  40.7145  -73.8819   32.3 NY MIDDLE VILLAGE 0.5 SW                       
+US1NYQN0026  40.7544  -73.8882   18.0 NY JACKSON HEIGHTS 0.3 WSW                     
+US1NYQN0027  40.7781  -73.8106   18.0 NY QUEENS 3.4 NNW                              
+US1NYQN0029  40.7482  -73.7654   24.7 NY QUEENS 2.1 NE                               
+US1NYQN0033  40.6621  -73.8413    2.1 NY HOWARD BEACH 0.4 NNW                        
+US1NYQN0036  40.6719  -73.8450    6.7 NY QUEENS 4.7 SW                               
+US1NYQN0037  40.7800  -73.8103   19.8 NY QUEENS 3.7 N                                
+US1NYRC0001  40.5421  -74.1476   10.7 NY STATEN ISLAND 4.5 SSE                       
+US1NYRC0002  40.5674  -74.1327   21.9 NY STATEN ISLAND 1.4 SE                        
+US1NYRL0001  41.0774  -74.0547  135.0 NY CHESTNUT RIDGE 0.3 SSW                      
+US1NYRL0003  41.0955  -74.0099   86.3 NY NANUET 0.3 E                                
+US1NYRL0004  41.1394  -74.0457  159.4 NY SPRING VALLEY 1.7 N                         
+US1NYRL0005  41.0835  -73.9930   81.7 NY WEST NYACK 1.3 WSW                          
+US1NYRL0008  41.2349  -74.0079   42.7 NY STONY POINT 0.7 NW                          
+US1NYRN0001  42.6391  -73.5698  192.9 NY AVERILL PARK 0.9 WNW                        
+US1NYRN0002  42.6397  -73.5715  193.9 NY AVERILL PARK 1.0 WNW                        
+US1NYRN0003  42.8780  -73.5355  182.0 NY VALLEY FALLS 2.1 SE                         
+US1NYRN0004  42.8962  -73.3538  141.4 NY HOOSICK FALLS 0.3 SSW                       
+US1NYRN0005  42.7730  -73.6374  163.7 NY TROY 3.3 NE                                 
+US1NYRN0007  42.5284  -73.7476   49.4 NY CASTLETON-ON-HUDSON 0.3 SSE                 
+US1NYRN0013  42.7904  -73.5623  209.7 NY TROY 6.9 NE                                 
+US1NYRN0014  42.6666  -73.6427  177.1 NY WYANTSKILL 1.6 SSE                          
+US1NYRN0015  42.7356  -73.6625  132.3 NY TROY 0.7 E                                  
+US1NYRN0020  42.7593  -73.6528  135.9 NY TROY 2.1 NNE                                
+US1NYRN0023  42.6637  -73.6877  114.0 NY WYANTSKILL 2.6 SW                           
+US1NYRN0024  42.4909  -73.5346  152.7 NY NASSAU 4.2 ESE                              
+US1NYRN0028  42.5161  -73.4232  229.2 NY STEPHENTOWN 3.4 SW                          
+US1NYRN0029  42.5469  -73.4681  337.1 NY AVERILL PARK 7.5 SE                         
+US1NYSC0001  42.7817  -74.1708  392.9 NY DELANSON 2.5 NNE                            
+US1NYSC0002  42.8447  -73.9748   83.5 NY SCOTIA 1.1 NW                               
+US1NYSC0011  42.7938  -73.8639  100.6 NY SCHENECTADY 3.3 E                           
+US1NYSC0016  42.8465  -73.8992   82.9 NY NISKAYUNA 2.0 N                             
+US1NYSC0017  42.8316  -74.1152  389.2 NY PATTERSONVILLE 4.2 SSW                      
+US1NYSC0020  42.7886  -73.9667  102.1 NY ROTTERDAM 0.9 NW                            
+US1NYSC0025  42.7650  -73.9429  108.8 NY SCHENECTADY 2.7 SSW                         
+US1NYSC0026  42.8108  -73.8976  125.9 NY NISKAYUNA 0.4 S                             
+US1NYSC0027  42.7791  -73.8724  114.0 NY NISKAYUNA 2.9 SSE                           
+US1NYSC0029  42.8152  -73.9026  125.0 NY SCHENECTADY 1.6 NE                          
+US1NYSF0002  40.9300  -72.6700   13.1 NY RIVERHEAD 1.3 SSE                           
+US1NYSF0003  40.8806  -72.9292   25.0 NY MIDDLE ISLAND 0.8 ESE                       
+US1NYSF0007  40.9364  -72.5778    6.1 NY JAMESPORT 0.6 SSW                           
+US1NYSF0016  40.9234  -73.3305   25.6 NY NORTHPORT 1.6 NNE                           
+US1NYSF0017  40.7351  -73.2212    4.3 NY ISLIP 0.2 NW                                
+US1NYSF0018  40.9299  -72.8988   34.4 NY SHOREHAM 1.8 SSE                            
+US1NYSF0019  40.8123  -72.7718   12.8 NY EAST MORICHES 0.6 WNW                       
+US1NYSF0024  40.7982  -73.1500   20.1 NY RONKONKOMA 1.4 WSW                          
+US1NYSF0030  40.9562  -72.9197   60.0 NY ROCKY POINT 2.0 N                           
+US1NYSF0031  41.0497  -72.4302    5.8 NY SOUTHOLD 0.7 S                              
+US1NYSF0034  40.7234  -73.2410    1.2 NY BAY SHORE 0.5 ESE                           
+US1NYSF0037  40.9360  -72.9799   41.1 NY MILLER PLACE 0.5 ENE                        
+US1NYSF0039  40.7369  -73.0839    5.8 NY SAYVILLE 0.0 N                              
+US1NYSF0041  40.7279  -73.4341   20.7 NY EAST FARMINGDALE 0.9 W                      
+US1NYSF0042  41.0690  -72.4243    8.8 NY SOUTHOLD 0.7 NNE                            
+US1NYSF0044  40.8374  -72.8668   29.3 NY SHIRLEY 2.9 N                               
+US1NYSF0049  40.7326  -73.0807    4.6 NY SAYVILLE 1.0 SSE                            
+US1NYSF0057  40.7719  -73.0357   14.9 NY PATCHOGUE 1.1 NW                            
+US1NYSF0058  40.8177  -73.0479   34.4 NY HOLTSVILLE 0.3 N                            
+US1NYSF0059  40.7763  -73.1119   22.9 NY BOHEMIA 0.5 ENE                             
+US1NYSF0060  40.7507  -73.0280    5.2 NY BLUE POINT 0.4 E                            
+US1NYSF0061  40.8917  -73.3831   53.6 NY CENTERPORT 0.9 SW                           
+US1NYSF0062  40.6726  -73.3839    3.7 NY COPIAGUE 0.4 ENE                            
+US1NYSF0063  40.8408  -73.1225   31.7 NY LAKE GROVE 1.2 SSW                          
+US1NYSF0065  40.7036  -73.3054    5.2 NY WEST ISLIP 0.6 SW                           
+US1NYSF0069  40.8697  -73.1708   44.2 NY SMITHTOWN 2.5 ENE                           
+US1NYSF0070  41.0496  -72.3622    4.6 NY SHELTER ISLAND HEIGHTS 2.1 SSW              
+US1NYSF0073  40.7260  -73.2728   10.4 NY BRIGHTWATERS 0.7 NNW                        
+US1NYSF0074  40.7472  -73.1966    7.9 NY ISLIP TERRACE 0.5 W                         
+US1NYSF0075  40.7599  -73.3893   27.1 NY WHEATLEY HEIGHTS 1.0 WSW                    
+US1NYSF0076  40.9256  -73.0997   46.6 NY SETAUKET-EAST SETAUKET 0.3 SSE              
+US1NYSF0077  40.8290  -73.1643   31.1 NY NESCONSET 1.4 SSW                           
+US1NYSF0078  40.8339  -73.3037   48.2 NY COMMACK 1.3 SW                              
+US1NYSF0079  40.8304  -73.2285   13.4 NY SMITHTOWN 2.0 SSW                           
+US1NYSF0080  40.8239  -72.6947   10.1 NY REMSENBURG-SPEONK 0.9 NE                    
+US1NYSF0083  40.7669  -73.4348   35.1 NY MELVILLE 1.6 SW                             
+US1NYSF0084  40.8853  -73.0669   31.1 NY CENTEREACH 1.3 NE                           
+US1NYSF0085  40.7516  -73.0092    1.2 NY PATCHOGUE 0.9 SE                            
+US1NYSF0089  40.6689  -73.4183    3.7 NY AMITYVILLE 0.1 WSW                          
+US1NYSF0090  40.9351  -73.0252   44.2 NY MOUNT SINAI 0.4 SW                          
+US1NYSF0091  40.8023  -72.9605   24.4 NY MEDFORD 1.9 SE                              
+US1NYSF0092  40.6772  -73.4103    6.1 NY AMITYVILLE 0.6 NNE                          
+US1NYSF0100  40.9200  -73.0694   53.6 NY PORT JEFFERSON STATION 0.3 SSW              
+US1NYSF0101  40.7223  -73.1802    3.0 NY EAST ISLIP 0.4 ESE                          
+US1NYSF0103  40.8958  -72.8539   21.0 NY RIDGE 1.8 SE                                
+US1NYSF0104  40.9648  -72.8494   17.1 NY WADING RIVER 2.0 NW                         
+US1NYSF0109  40.8347  -73.2924   37.2 NY COMMACK 0.8 SSW                             
+US1NYSF0110  40.7627  -73.1776   14.3 NY ISLIP TERRACE 1.1 NNE                       
+US1NYSF0114  41.2631  -72.0164   13.7 NY FISHERS ISLAND 0.5 NE                       
+US1NYSF0115  40.8437  -73.0532   53.3 NY FARMINGVILLE 0.5 W                          
+US1NYSF0118  40.8751  -73.0884   31.1 NY CENTEREACH 0.4 NW                           
+US1NYSF0122  40.7318  -73.3155   13.4 NY NORTH BABYLON 0.5 E                         
+US1NYSF0123  40.8068  -72.7981   10.1 NY CENTER MORICHES 0.5 N                       
+US1NYSF0125  40.7358  -73.0458    4.3 NY BAYPORT 1.0 SSE                             
+US1NYSF0127  40.8957  -72.8611   35.7 NY RIDGE 1.5 SE                                
+US1NYSF0129  40.7242  -73.2607    7.9 NY BRIGHTWATERS 0.5 NNE                        
+US1NYSF0131  40.9430  -73.1381    3.7 NY SETAUKET-EAST SETAUKET 2.1 WNW              
+US1NYSF0134  40.9204  -73.1072   26.5 NY SETAUKET-EAST SETAUKET 0.7 SSW              
+US1NYSF0136  40.7883  -73.0265   18.0 NY PATCHOGUE 1.9 NNW                           
+US1NYSF0138  40.7452  -73.0837    7.9 NY SAYVILLE 0.2 SE                             
+US1NYSF0140  40.9738  -72.1147    6.4 NY AMAGANSETT 1.5 E                            
+US1NYSF0141  40.7839  -73.0264   14.0 NY PATCHOGUE 1.6 NNW                           
+US1NYSF0142  40.9157  -73.1018   48.2 NY SETAUKET-EAST SETAUKET 1.0 S                
+US1NYSH0001  42.6805  -74.5990  373.1 NY COBLESKILL 5.7 W                            
+US1NYSH0003  42.5973  -74.5931  647.4 NY SUMMIT 1.3 NNW                              
+US1NYSH0005  42.7351  -74.4528  381.3 NY COBLESKILL 4.2 NNE                          
+US1NYSL0002  44.7001  -75.4832   87.2 NY OGDENSBURG 0.4 ENE                          
+US1NYSL0003  44.7737  -74.8157  103.9 NY WINTHROP 2.0 SW                             
+US1NYSL0006  44.6115  -74.9719  171.0 NY HANNAWA FALLS 0.1 SW                        
+US1NYSL0008  44.6871  -75.4894   85.3 NY OGDENSBURG 0.8 SSE                          
+US1NYSL0009  44.3365  -75.2617  219.5 NY EDWARDS 0.9 NW                              
+US1NYSL0010  44.6891  -75.4864   85.0 NY OGDENSBURG 1.6 SW                           
+US1NYSL0012  44.4315  -75.4696  135.3 NY GOUVERNEUR 6.6 N                            
+US1NYSL0013  44.4142  -75.7565  109.4 NY HAMMOND 3.8 SW                              
+US1NYSL0015  44.7285  -75.3213  107.6 NY LISBON 0.1 N                                
+US1NYSL0017  44.6999  -75.4900   83.5 NY OGDENSBURG 1.1 WSW                          
+US1NYSN0002  42.7500  -76.8167  213.1 NY OVID 5.2 N                                  
+US1NYSN0006  42.5844  -76.7232  348.1 NY INTERLAKEN 2.4 S                            
+US1NYSR0002  43.0540  -73.8127  100.0 NY SARATOGA SPRINGS 2.0 WSW                    
+US1NYSR0003  43.0970  -73.9069  211.8 NY MILTON 5.2 NNW                              
+US1NYSR0004  43.0603  -73.7801   94.5 NY SARATOGA SPRINGS 0.5 S                      
+US1NYSR0006  43.2003  -73.6755   90.2 NY GANSEVOORT 1.3 WNW                          
+US1NYSR0007  43.0438  -73.9300  125.9 NY BALLSTON SPA 4.7 WNW                        
+US1NYSR0008  42.9455  -73.7869   60.7 NY MECHANICVILLE 5.7 NW                        
+US1NYSR0011  43.2944  -74.0881  378.0 NY EDINBURG 4.7 NNE                            
+US1NYSR0013  42.7973  -73.6826   50.6 NY WATERFORD 0.4 NNW                           
+US1NYSR0014  43.1025  -73.8397  170.4 NY SARATOGA SPRINGS 3.9 NW                     
+US1NYSR0015  43.0080  -73.8031   97.8 NY MALTA 2.6 NNW                               
+US1NYSR0016  42.9900  -73.8000  110.6 NY BALLSTON SPA 2.9 ESE                        
+US1NYSR0022  43.1268  -73.8786  183.8 NY GREENFIELD CENTER 1.6 W                     
+US1NYSR0023  43.1316  -73.7372  103.6 NY WILTON 3.4 S                                
+US1NYSR0027  42.7882  -73.6798    9.8 NY WATERFORD 0.2 S                             
+US1NYSR0029  42.8213  -73.7855   88.1 NY CLIFTON PARK 2.7 S                          
+US1NYSR0032  42.9758  -73.7866  105.5 NY ROUND LAKE 2.7 N                            
+US1NYSR0033  43.0087  -73.8425   85.6 NY BALLSTON SPA 0.5 ENE                        
+US1NYSR0035  42.9776  -73.7375  101.2 NY ROUND LAKE 4.1 NE                           
+US1NYSR0036  42.9206  -73.8278  102.7 NY COUNTRY KNOLLS 1.2 WNW                      
+US1NYSR0039  42.9665  -73.7777  104.2 NY ROUND LAKE 2.2 NNE                          
+US1NYSR0040  42.8888  -73.7547  114.3 NY MECHANICVILLE 3.4 WSW                       
+US1NYSR0041  42.8647  -73.8248   99.4 NY CLIFTON PARK 2.2 W                          
+US1NYST0002  42.2211  -77.0251  474.0 NY PAINTED POST 5.3 NE                         
+US1NYST0003  42.0567  -77.0485  527.3 NY SOUTH CORNING 4.7 S                         
+US1NYST0004  42.1404  -76.9703  285.0 NY BIG FLATS 2.0 W                             
+US1NYST0005  42.4583  -77.4113  457.2 NY AVOCA 3.5 N                                 
+US1NYST0006  42.2374  -77.1543  527.0 NY CAMPBELL 2.5 ENE                            
+US1NYST0009  42.4074  -77.2267  231.6 NY HAMMONDSPORT 0.2 WSW                        
+US1NYST0010  42.2167  -77.2167  451.1 NY SAVONA 4.7 S                                
+US1NYST0011  42.2333  -77.2667  524.3 NY SAVONA 4.1 SSW                              
+US1NYST0012  42.0167  -77.0500  527.9 NY CATON 2.8 SSW                               
+US1NYST0013  42.3167  -77.4833  490.7 NY CANISTEO 7.0 ENE                            
+US1NYST0014  42.1000  -77.0500  457.2 NY SOUTH CORNING 1.8 SSW                       
+US1NYST0016  42.1432  -77.0521  278.0 NY CORNING 0.4 SE                              
+US1NYST0019  42.5649  -77.4839  410.0 NY COHOCTON 4.5 N                              
+US1NYST0023  42.3471  -77.4740  510.8 NY AVOCA 5.0 SSW                               
+US1NYST0024  42.4213  -77.1693  385.0 NY HAMMONDSPORT 2.9 ENE                        
+US1NYST0026  42.5729  -77.4532  419.7 NY ATLANTA 1.3 NW                              
+US1NYST0028  42.3257  -77.6509  346.6 NY HORNELL 0.5 E                               
+US1NYST0029  42.3431  -77.3188  341.4 NY BATH 0.4 N                                  
+US1NYST0030  42.1573  -77.0600  286.2 NY CORNING 0.7 NNW                             
+US1NYST0031  42.3320  -77.1660  337.4 NY SAVONA 4.4 NE                               
+US1NYST0033  42.3397  -77.2367  503.5 NY BATH 4.2 E                                  
+US1NYST0035  42.2674  -77.4133  519.4 NY BATH 6.8 SW                                 
+US1NYST0037  42.2053  -77.0620  453.8 NY CORNING 4.0 N                               
+US1NYST0040  42.0690  -77.1674  331.3 NY PAINTED POST 7.6 SSW                        
+US1NYST0041  42.1537  -77.0869  286.5 NY PAINTED POST 0.7 SSE                        
+US1NYST0045  42.1884  -77.0648  449.9 NY CORNING 2.9 N                               
+US1NYST0046  42.5678  -77.2626  502.6 NY PRATTSBURGH 3.3 NNE                         
+US1NYSV0001  41.8162  -74.7447  563.9 NY LIBERTY 1.3 N                               
+US1NYSV0003  41.8200  -74.9900  350.5 NY JEFFERSONVILLE 4.1 NW                       
+US1NYSV0004  41.6549  -74.6793  449.9 NY MONTICELLO 0.5 ENE                          
+US1NYSV0005  41.6326  -74.5604  474.6 NY ROCK HILL 2.0 NE                            
+US1NYSV0006  41.8500  -75.1333  267.9 NY LONG EDDY                                   
+US1NYSV0007  41.5998  -74.9828  323.7 NY NARROWSBURG 4.1 ESE                         
+US1NYSV0008  41.5739  -74.4871  163.7 NY WURTSBORO 0.2 SSW                           
+US1NYSV0009  41.6501  -74.5884  401.1 NY GLEN WILD 0.3 SSW                           
+US1NYSV0014  41.8881  -74.7880  560.8 NY LIVINGSTON MANOR 2.0 ESE                    
+US1NYSY0001  42.3907  -76.7176  426.1 NY SMITH VALLEY 1.9 SE                         
+US1NYSY0002  42.3501  -76.8492  137.8 NY MONTOUR FALLS 0.2 NW                        
+US1NYSY0003  42.2923  -76.7249  354.8 NY CAYUTA 1.6 NW                               
+US1NYSY0005  42.3326  -76.7581  362.1 NY ODESSA 3.4 ENE                              
+US1NYSY0006  42.4177  -76.9425  434.3 NY WATKINS GLEN 4.6 NW                         
+US1NYSY0007  42.3510  -76.9735  437.7 NY WATKINS GLEN 5.8 WSW                        
+US1NYSY0008  42.4153  -77.0874  335.0 NY BRADFORD 3.2 NNE                            
+US1NYSY0009  42.4147  -76.8326  315.8 NY BURDETT 0.8 ESE                             
+US1NYSY0010  42.3811  -76.9445  449.3 NY WATKINS GLEN 3.9 W                          
+US1NYSY0011  42.5221  -76.8558  331.9 NY DUNDEE 6.2 E                                
+US1NYSY0012  42.4981  -76.8715  281.0 NY DUNDEE 5.7 ESE                              
+US1NYSY0014  42.4494  -76.6905  406.9 NY MECKLENBURG 1.2 SE                          
+US1NYTG0002  42.1333  -76.5333  402.9 NY VAN ETTEN 4.6 SSE                           
+US1NYTG0003  42.0500  -76.1167  277.4 NY APALACHIN 3.0 ESE                           
+US1NYTG0004  42.2833  -76.1500  429.8 NY NEWARK VALLEY 4.6 NNE                       
+US1NYTG0005  42.3346  -76.1899  335.3 NY BERKSHIRE 2.0 N                             
+US1NYTG0007  42.1167  -76.2833  332.2 NY OWEGO 1.3 NW                                
+US1NYTG0008  42.0529  -76.1199  315.2 NY APALACHIN 2.8 ESE                           
+US1NYTG0009  42.2667  -76.3000  423.7 NY CANDOR 3.3 NE                               
+US1NYTG0015  42.3191  -76.2194  470.9 NY BERKSHIRE 1.9 ENE                           
+US1NYTG0017  42.0512  -76.1236  296.9 NY APALACHIN 2.6 SE                            
+US1NYTG0018  42.0340  -76.4002  245.1 NY SMITHBORO 0.1 NE                            
+US1NYTG0019  42.1246  -76.2213  359.4 NY OWEGO 2.5 ENE                               
+US1NYTG0020  42.2531  -76.3378  336.2 NY CANDOR 1.8 N                                
+US1NYTG0026  42.2343  -76.3476  274.9 NY CANDOR 0.7 NW                               
+US1NYTM0001  42.6203  -76.4935  331.9 NY LANSING 8.9 N                               
+US1NYTM0002  42.5666  -76.5700  259.1 NY LANSING 6.6 NW                              
+US1NYTM0003  42.4317  -76.4886  198.1 NY ITHACA 1.1 SE                               
+US1NYTM0004  42.5913  -76.3720  315.2 NY GROTON 0.5 NW                               
+US1NYTM0005  42.5253  -76.3218  327.1 NY FREEVILLE 1.5 NE                            
+US1NYTM0006  42.3520  -76.3184  484.6 NY CAROLINE CENTER 0.1 SE                      
+US1NYTM0007  42.5844  -76.3549  359.7 NY GROTON 0.6 ESE                              
+US1NYTM0008  42.4383  -76.6167  408.4 NY ENFIELD 0.8 ENE                             
+US1NYTM0010  42.5487  -76.3398  370.0 NY FREEVILLE 2.6 N                             
+US1NYTM0012  42.4087  -76.4835  362.1 NY SOUTH HILL 0.4 ESE                          
+US1NYTM0014  42.3736  -76.3378  509.9 NY SLATERVILLE SPRINGS 1.0 S                   
+US1NYTM0015  42.3223  -76.5899  487.1 NY NEWFIELD 2.5 S                              
+US1NYTM0016  42.3949  -76.4105  292.9 NY EAST ITHACA 3.6 SE                          
+US1NYTM0017  42.4972  -76.5803  305.1 NY ITHACA 2.6 NW                               
+US1NYTM0018  42.4191  -76.3733  353.9 NY EAST ITHACA 4.7 E                           
+US1NYTM0019  42.3858  -76.5007  347.5 NY DANBY 2.5 NE                                
+US1NYTM0021  42.5891  -76.6087  208.5 NY TRUMANSBURG 4.3 NE                          
+US1NYTM0022  42.4356  -76.4166  310.9 NY EAST ITHACA 2.6 ENE                         
+US1NYTM0023  42.5021  -76.4180  352.0 NY FREEVILLE 3.7 W                             
+US1NYTM0024  42.5417  -76.6675  292.9 NY TRUMANSBURG 0.4 WNW                         
+US1NYTM0025  42.4876  -76.5002  249.9 NY ITHACA 3.0 N                                
+US1NYTM0026  42.3925  -76.4153  274.0 NY BROOKTONDALE 1.3 NW                         
+US1NYTM0027  42.5473  -76.3996  422.1 NY GROTON 3.2 SSW                              
+US1NYTM0028  42.4653  -76.5352  250.5 NY ITHACA 2.2 NW                               
+US1NYTM0030  42.3568  -76.3517  406.0 NY BROOKTONDALE 2.7 SE                         
+US1NYTM0031  42.3930  -76.3409  345.6 NY SLATERVILLE SPRINGS 0.5 ESE                 
+US1NYTM0032  42.4380  -76.5371  299.6 NY ITHACA 1.8 WSW                              
+US1NYTM0034  42.5446  -76.6569  379.2 NY TRUMANSBURG 0.3 NNE                         
+US1NYTM0036  42.4293  -76.4687  261.8 NY ITHACA 2.0 ESE                              
+US1NYTM0038  42.5421  -76.6687  302.1 NY TRUMANSBURG 0.4 WNW                         
+US1NYTM0039  42.4267  -76.6683  468.5 NY ITHACA 8.5 W                                
+US1NYTM0042  42.4335  -76.3786  367.0 NY ITHACA 6.4 E                                
+US1NYTM0045  42.2965  -76.6068  501.7 NY NEWFIELD HAMLET 4.3 S                       
+US1NYTM0047  42.3681  -76.5267  433.7 NY ITHACA 5.4 SSW                              
+US1NYUL0001  41.9286  -74.0195   57.9 NY KINGSTON 1.1 W                              
+US1NYUL0002  42.0204  -74.0977  157.0 NY WOODSTOCK 1.4 SSE                           
+US1NYUL0003  41.8809  -74.0574   54.3 NY ROSENDALE VILLAGE 2.4 NNE                   
+US1NYUL0004  42.0181  -74.0151   94.2 NY RUBY 0.5 NE                                 
+US1NYUL0006  41.7140  -74.0866  121.9 NY NEW PALTZ 2.4 S                             
+US1NYUL0008  41.9162  -74.1832  154.8 NY STONE RIDGE 4.9 NNW                         
+US1NYUL0009  41.6267  -73.9941  132.3 NY MARLBORO 1.9 NNW                            
+US1NYUL0012  41.6868  -74.1643   61.6 NY GARDINER 0.9 WNW                            
+US1NYUL0015  41.8516  -74.1516  117.7 NY STONE RIDGE 0.7 N                           
+US1NYUL0016  41.8608  -74.1075   90.8 NY ROSENDALE VILLAGE 1.8 WNW                   
+US1NYUL0017  41.6939  -74.0129  166.4 NY HIGHLAND 2.9 WSW                            
+US1NYUL0019  42.0410  -74.0959  150.9 NY WOODSTOCK 0.8 ENE                           
+US1NYUL0020  41.8677  -73.9880   53.6 NY ULSTER PARK 0.9 NNW                         
+US1NYUL0021  41.8430  -74.1610  113.1 NY STONE RIDGE 0.5 WNW                         
+US1NYUL0022  41.9610  -73.9958   55.8 NY KINGSTON 2.1 N                              
+US1NYUL0023  42.0046  -74.1109  185.0 NY WEST HURLEY 0.1 S                           
+US1NYUL0025  41.9162  -73.9929   34.7 NY KINGSTON 1.0 SSE                            
+US1NYUL0026  41.6858  -74.1737   68.6 NY GARDINER 1.3 WNW                            
+US1NYUL0028  41.8321  -74.3012  273.1 NY KERHONKSON 3.7 N                            
+US1NYUL0029  41.7149  -73.9684  116.7 NY HIGHLAND 0.2 SW                             
+US1NYUL0031  41.8815  -74.0563   50.0 NY HURLEY 2.2 S                                
+US1NYUL0032  41.8385  -73.9588   49.4 NY ESOPUS 0.8 NNE                              
+US1NYUL0034  41.6184  -74.0938  170.7 NY WALLKILL 3.7 E                              
+US1NYWC0003  41.0639  -73.7722   71.0 NY WHITE PLAINS 3.1 NNW                        
+US1NYWC0005  40.9639  -73.7232   24.1 NY HARRISON 4.1 SSW                            
+US1NYWC0006  41.3003  -73.5700  151.5 NY SOUTH SALEM 2.1 NW                          
+US1NYWC0007  41.2649  -73.7899  174.0 NY YORKTOWN HEIGHTS 0.6 SW                     
+US1NYWC0009  40.9040  -73.7770   21.9 NY NEW ROCHELLE 1.3 S                          
+US1NYWC0011  41.2944  -73.9229   54.6 NY PEEKSKILL 0.4 N                             
+US1NYWC0015  41.1330  -73.7060  129.2 NY ARMONK 0.4 E                                
+US1NYWC0016  41.1648  -73.8340  155.1 NY BRIARCLIFF MANOR 1.8 NNE                    
+US1NYWC0018  41.1300  -73.7082  117.3 NY ARMONK 0.3 SE                               
+US1NYWC0019  41.0427  -73.8228   90.5 NY ELMSFORD 0.8 SSW                            
+US1NYWC0022  41.2848  -73.5528  157.6 NY SOUTH SALEM 0.8 N                           
+US1NYWC0032  41.1501  -73.8233   91.7 NY BRIARCLIFF MANOR 1.3 NE                     
+US1NYWC0034  41.1203  -73.7761  110.9 NY THORNWOOD 0.7 NW                            
+US1NYWN0003  43.1919  -76.8379  115.2 NY WOLCOTT 2.5 SSW                             
+US1NYWN0004  43.2912  -76.8062   95.1 NY WOLCOTT 4.8 N                               
+US1NYWN0006  43.0795  -77.2526  151.8 NY PALMYRA 1.6 NW                              
+US1NYWN0007  43.2118  -77.3464  142.0 NY ONTARIO 3.4 WSW                             
+US1NYWN0009  43.1667  -77.1675  145.7 NY MARION 2.0 NE                               
+US1NYWN0010  43.1250  -77.2990  158.5 NY WALWORTH 1.7 SW                             
+US1NYWN0016  43.0457  -77.0688  129.5 NY NEWARK 1.3 E                                
+US1NYWN0018  43.0520  -77.2570  157.3 NY MACEDON 2.6 ESE                             
+US1NYWN0020  43.2604  -77.3488  108.2 NY ONTARIO 4.2 NW                              
+US1NYWN0021  43.2400  -77.2096  119.5 NY WILLIAMSON 1.8 W                            
+US1NYWN0023  43.0738  -76.9899  135.0 NY LYONS 0.7 NNE                               
+US1NYWN0026  43.0847  -76.8759  122.5 NY CLYDE 0.3 WNW                               
+US1NYWR0003  43.3105  -73.7259  143.3 NY GLENS FALLS 4.0 W                           
+US1NYWR0004  43.2896  -73.7190  123.1 NY GLENS FALLS 4.0 WSW                         
+US1NYWR0010  43.5178  -73.8107  202.4 NY WARRENSBURG 2.1 WNW                         
+US1NYWR0011  43.4318  -73.7147  135.9 NY LAKE GEORGE 0.4 N                           
+US1NYWR0013  43.3588  -73.6285   92.4 NY QUEENSBURY 2.5 E                            
+US1NYWR0015  43.4004  -73.6227  127.7 NY LAKE GEORGE 5.0 ESE                         
+US1NYWR0017  43.4403  -73.7126  181.4 NY LAKE GEORGE 1.0 N                           
+US1NYWS0008  43.3116  -73.3961  234.4 NY GRANVILLE 9.5 SW                            
+US1NYWY0002  42.8017  -78.0381  436.5 NY WYOMING 2.9 SE                              
+US1NYWY0007  42.7565  -78.2489  517.6 NY VARYSBURG 3.1 E                             
+US1NYYT0001  42.5500  -76.9333  426.7 NY DUNDEE 2.9 NE                               
+US1NYYT0003  42.5020  -76.9242  256.6 NY DUNDEE 3.1 ESE                              
+US1NYYT0005  42.7326  -77.0766  332.2 NY PENN YAN 5.1 NNW                            
+US1NYYT0006  42.5110  -76.9155  157.6 NY DUNDEE 3.3 ESE                              
+US1NYYT0007  42.5284  -76.9776  308.8 NY DUNDEE 0.3 N                                
+US1NYYT0008  42.6539  -77.2660  286.5 NY MIDDLESEX 3.5 S                             
+US1NYYT0009  42.6042  -77.3007  347.2 NY NAPLES 5.2 E                                

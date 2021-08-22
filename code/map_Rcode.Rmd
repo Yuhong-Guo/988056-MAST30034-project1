@@ -21,10 +21,6 @@ df = read.csv("../preprocessed_data/df_small.csv",stringsAsFactors = TRUE)
 ```
 
 ```{r}
-library(sf)
-```
-
-```{r}
 sf = st_read("../raw_data/taxi_zones/taxi_zones.shp")
 zone = read.csv("../raw_data/taxi_zones/taxi+_zone_lookup.csv")
 ```
@@ -81,17 +77,3 @@ tm_shape(sf_join)+
    tm_polygons('distance_mean',style="pretty")
 ```
 
-```{r}
-df %>% 
-  group_by(PULocationID) %>% 
-  summarise(tip_mean = mean(tip_amount)) -> df_summary4
-```
-```{r}
-sf_join <- 
-left_join(sf,df_summary4,
-          by=c("LocationID"="PULocationID")) 
-```
-```{r message=FALSE, warning=FALSE, fig.align = "center"}
-tm_shape(sf_join)+
-   tm_polygons('tip_mean',style="pretty")
-```

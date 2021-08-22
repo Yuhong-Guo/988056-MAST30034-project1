@@ -1,6 +1,6 @@
 ---
 title: "map_Rcode"
-author: "Yuhong"
+author: "Yuhong Guo"
 date: "16/08/2021"
 output: html_document
 ---
@@ -17,10 +17,7 @@ library(feather)
 ```
 
 ```{r}
-sampledf = read.csv("../raw_data/sample.csv",stringsAsFactors = TRUE)
-sampledf %>% 
-  group_by(PULocationID, payment_type) %>% 
-  summarise(n = n()) -> sampledf_summary
+df = read.csv("../preprocessed_data/df_small.csv",stringsAsFactors = TRUE)
 ```
 
 ```{r}
@@ -29,7 +26,7 @@ library(sf)
 
 ```{r}
 sf = st_read("../raw_data/taxi_zones/taxi_zones.shp")
-zone = read.csv("../raw_data/taxi+_zone_lookup.csv")
+zone = read.csv("../raw_data/taxi_zones/taxi+_zone_lookup.csv")
 ```
 
 Basic information in shapefile.
@@ -39,25 +36,62 @@ sf = st_read("../raw_data/taxi_zones/.")
 plot(sf)
 ```
 
-```{r  message=FALSE, warning=FALSE, fig.align = "center"}
-ggplot() + 
-  geom_sf(data = sf, size = 1, color = "black", fill = "cyan1") + 
-  ggtitle("Boundary Plot") + 
-  coord_sf()+
-  theme_bw()
+```{r}
+df %>% 
+  group_by(PULocationID) %>% 
+  summarise(n = n()) -> df_summary1
+```
+```{r}
+sf_join <- 
+left_join(sf,df_summary1,
+          by=c("LocationID"="PULocationID")) 
+```
+```{r message=FALSE, warning=FALSE, fig.align = "center"}
+tm_shape(sf_join)+
+   tm_polygons('n',style="pretty")
 ```
 
-```{r, message=FALSE,warning=FALSE, fig.align = "center"}
-map_big <- get_stamenmap(
-  rbind(-74.3,40.45,-73.75,40.95),
-  zoom = 10)
-ggmap(map_big)
+```{r}
+df %>% 
+  group_by(PULocationID) %>% 
+  summarise(total_mean = mean(total_amount)) -> df_summary2
+```
+```{r}
+sf_join <- 
+left_join(sf,df_summary2,
+          by=c("LocationID"="PULocationID")) 
+```
+```{r message=FALSE, warning=FALSE, fig.align = "center"}
+tm_shape(sf_join)+
+   tm_polygons('total_mean',style="pretty")
 ```
 
-```{r  message=FALSE, warning=FALSE, fig.align = "center"}
-ggmap(map_big) +
-    geom_sf(data = sf, aes(fill=Shape_Area), inherit.aes = FALSE)  +
-  coord_sf(crs = st_crs(4326)) +
-  scale_fill_viridis_c()
+```{r}
+df %>% 
+  group_by(PULocationID) %>% 
+  summarise(distance_mean = mean(trip_distance)) -> df_summary3
+```
+```{r}
+sf_join <- 
+left_join(sf,df_summary3,
+          by=c("LocationID"="PULocationID")) 
+```
+```{r message=FALSE, warning=FALSE, fig.align = "center"}
+tm_shape(sf_join)+
+   tm_polygons('distance_mean',style="pretty")
 ```
 
+```{r}
+df %>% 
+  group_by(PULocationID) %>% 
+  summarise(tip_mean = mean(tip_amount)) -> df_summary4
+```
+```{r}
+sf_join <- 
+left_join(sf,df_summary4,
+          by=c("LocationID"="PULocationID")) 
+```
+```{r message=FALSE, warning=FALSE, fig.align = "center"}
+tm_shape(sf_join)+
+   tm_polygons('tip_mean',style="pretty")
+```
